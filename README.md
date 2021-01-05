@@ -9,25 +9,24 @@
 
 > This bot is a Multi-Purpose Discord Bot and also a easy to use and a Customizable Language!
 
-Atlanta is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [Androz2091](https://github.com/Androz2091).  
-Feel free to add a star ⭐ to the repository to promote the project!
+Spectrum is a Multi purpose Bot with almost 120+ Commands in Different Categories! You can also Set your own prefix, Choose your own Language, and Disable/Enable Commands of your choice! Feel free to join in our [Support Server](https://discord.gg/MEvXFCRC9V) You can also get things by voting us here!
 
 ## Features
 
-### Complete Bot
+### Multi Purpose Bot
 
-Atlanta offers (non-exhaustive list):
+Spectrum offers (non-exhaustive list):
 *   ✉️ Support for commands in direct messages
 *   🇫🇷 Support for translations (illimited languages)
 *   ⚙️ Guild configuration (prefix, ignored channels, etc...)
 *   😀 Commands made pleasant thanks to the many emojis
-*   🗳️ Support for Discordbots.org votes with rewards
+*   🗳️ Website on his own! (Still on Developmenet)
 
-Atlanta also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
+Spectrum also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
 
 ### Many commands
 
-Atlanta has a lot of features, with **7 main categories**:
+Spectrum has a lot of features, with **7 main categories**:
 
 *   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **11** more! 
 *   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **6** more! 
@@ -37,49 +36,15 @@ Atlanta has a lot of features, with **7 main categories**:
 *   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **10** more! 
 *   👑 **Owner**: `eval`, `getinvite`, `servers-list` and **2** more!
 
-[See the full commands list](https://www.atlanta-bot.fr/commands)
 
-### A powerful Dashboard
-
-Atlanta has its own dashboard which also offers many features! The dashboard runs with Express and EJS!
-
-<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/c3ya.png" height="200" width="350"/>
-<img align="center" style="float: left; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/vnq5.png" height="200" width="350"/>
-<img align="center" style="float: centrer; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/htga.png" height="200" width="350"/>
-
-You can directly **edit your configuration**, **manage your servers**, **view rankings**, **modify your profile** and much more!
-
-> Find the code in the dashboard folder! 
-
-## Installation
-
-### Non-customized version
-
-If you don't want to edit the code of the bot, a permanent online version is available, which you can invite to your own Discord!   
-
-[![Discord Bots](https://discordbots.org/api/widget/557445719892688897.svg)](https://discordbots.org/bot/557445719892688897)
-
-### Customized version
-
-If you want to edit the bot's code and host it on your machine, it's possible!  
-You must follow the [installation guide](https://www.atlanta-bot.fr/installation/) to properly install it! Don't worry, it's fast and simple if you follow the guide!
 
 ## Links
 
-*   [Commands List](https://www.atlanta-bot.fr/commands)
-*   [Installation Guide](https://www.atlanta-bot.fr/installation)
-*   [F.A.Q](https://www.atlanta-bot.fr/faq/)
-*   [Discord](https://discord.atlanta-bot.fr)
-*   [Twitter](https://twitter.com/AtlantaBot)
-*   [Github](https://github.com/Androz2091/AtlantaBot/)
-*   [Dashboard](https://dashboard.atlanta-bot.fr)
 
-## Contributing
+*   [Website] (Not Available For the Moment)
+*   [Invite Link](https://discordapp.com/oauth2/authorize?client_id=795808993393377280&scope=bot&permissions=2146958847)
+*   [Discord](https://discord.gg/MEvXFCRC9V)
+*   [Github](https://github.com/phneapuu/)
+*   [Donate](https://www.paypal.com/paypalme/aurasniping)
 
-Before **creating an issue**, please ensure that it hasn't already been reported/suggested, and double-check the [F.A.Q](https://www.atlanta-bot.fr/faq).   
-And if you have a question, please ask it in the [Discord server](https://discord.atlanta-bot.fr/) instead of opening an issue.
-If you wish to contribute to the Atlanta codebase or documentation, feel free to fork the repository and submit a pull request!
 
-## License
-
-Atlanta is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
